@@ -31,4 +31,13 @@ let mul=$x*$y
 echo "$mul"
 
 
+<<<<<<< HEAD
+=======
+
+#add same changes 
+
+echo " currently iam working in $city city "
+echo " $colleage is best university in maharashtra"
+
+>>>>>>> master
 

@@ -24,3 +24,9 @@ readonly colleage=nmu
 echo "i have completed my graduation in bcs form $colleage jalgaon"
 
 
+#add same changes 
+
+echo " currently iam working in $city city "
+echo " $colleage is best university in maharashtra"
+
+

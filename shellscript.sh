@@ -23,6 +23,14 @@ echo "myself $name ,age is $age, i am currently living in $city"
 readonly colleage=nmu
 echo "i have completed my graduation in bcs form $colleage jalgaon"
 
+#####################################add#################33
+x=10
+y=3
+n=2
+let mul=$x*$y
+echo "$mul"
+
+
 
 #add same changes 
 

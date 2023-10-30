@@ -25,3 +25,9 @@ echo "i have completed my graduation in bcs form $colleage jalgaon"
 ###2nd add
 colleage=bamu #when you use readonly one time use variable you do not use other same variable , you execute the file youhave see the warnig or error.
 
+#add same changes 
+
+echo " currently iam working in $city city "
+echo " $colleage is best university in maharashtra"
+
+

@@ -22,5 +22,6 @@ echo "myself $name ,age is $age, i am currently living in $city"
 #use_readonly
 readonly colleage=nmu
 echo "i have completed my graduation in bcs form $colleage jalgaon"
-
+###2nd add
+colleage=bamu #when you use readonly one time use variable you do not use other same variable , you execute the file youhave see the warnig or error.
 

@@ -31,3 +31,16 @@ echo " currently iam working in $city city "
 echo " $colleage is best university in maharashtra"
 
 
+#add same changes 
+
+echo " currently iam working in $city city "
+echo " $colleage is best university in maharashtra"
+
+#new changes / 
+age=23
+name=vishnu
+city=pune
+hometown=beed
+echo "myself $name currently living in $city city and current runnign age is $age"
+
+

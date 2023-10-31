@@ -9,6 +9,7 @@ else
     echo "you are FAIL "
 fi
 condition
+#####################################################
 read -p "enter your mark:" marks
 if [[ $marks -gt 40 ]] 
 then 

@@ -31,13 +31,27 @@ let mul=$x*$y
 echo "$mul"
 
 
-<<<<<<< HEAD
-=======
+#<<<<<<< HEAD
+#=======
 
 #add same changes 
 
 echo " currently iam working in $city city "
 echo " $colleage is best university in maharashtra"
 
->>>>>>> master
+#>>>>>>> master
+
+###########################31-10-23-
+x=3
+y=2
+c=7
+d=4
+let mul=$x*$d
+echo "$mul"
+
+let sub=$d-$c
+echo "$sub"
+
+let add=$x+$d
+echo "$add"
 

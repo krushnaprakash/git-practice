@@ -53,4 +53,15 @@ else
 	echo "ohh no!!! sorry to say that you are fail"
 fi
 
+###############################practice_ad
+read -p "what is your aspectation" lpa
+if [[ $lpa -ge 8 ]]
+then 
+	echo "yes i can excited to join your company"
+elif  [[ $lpa -lt 2 ]]
+then 
+	echo " sorry i am not intrested to join your company"
+else   
+	echo "sorry "
 
+fi

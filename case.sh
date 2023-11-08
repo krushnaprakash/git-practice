@@ -27,6 +27,26 @@ case $choise in
 	#	;;
 esac
 
+<<<<<<< HEAD
+=======
+#Date-8/11/23#####################################
+echo "select a option on following"
+echo "x for show current working directory"
+echo "y for show check systemc date and time"
+echo "z to run the train"
+echo "e to show current runnign process in system"
+read choise
+case $choise in 
+        x) pwd;;
+	y) date;;
+        z) sl;;
+	e) ps;;
+        *) echo " plese select valid option"
+esac
+
+
+
+>>>>>>> origin/shell
 
 
 

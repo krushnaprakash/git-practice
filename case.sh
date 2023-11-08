@@ -49,5 +49,6 @@ esac
 >>>>>>> origin/shell
 
 
+#this practice for git reset is help to undo the chagees of your working directory and get back to specific commit
 
 

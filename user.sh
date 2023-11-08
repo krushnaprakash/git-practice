@@ -30,3 +30,12 @@ echo "your name is $name "
 ##date 8-11-23_______
 read -p "hi " name
 echo "hello $name"
+
+
+
+
+
+####git reset practice on the local servcer
+#####as well as git reset --hard 
+###### git reset --soft 
+###### by default --mixed 

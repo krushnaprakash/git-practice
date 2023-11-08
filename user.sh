@@ -25,3 +25,8 @@ read -p "what is your name" name
 echo "your name is $name "
 
 >>>>>>> master
+
+
+##date 8-11-23_______
+read -p "hi " name
+echo "hello $name"

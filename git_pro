@@ -14,4 +14,6 @@ change will remove and code in work dir
 
 ____________
 git revert <latest/previous commit id>= it will be change last commit github remote repo to local working dir
-	
+git revert create a new commit id 
+cmd is git revert commit_id 
+ 

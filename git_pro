@@ -6,3 +6,10 @@ does not changes in file thise leves all changes in working file
 change to be commite 
 stagging area
 
+git reset --hard commit_id
+reset the index/working file change to teracked file in workign commit are discarded
+change will remove and code in work dir 
+
+
+____________
+	

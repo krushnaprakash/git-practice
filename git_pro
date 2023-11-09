@@ -9,7 +9,10 @@ stagging area
 git reset --hard commit_id
 reset the index/working file change to teracked file in workign commit are discarded
 change will remove and code in work dir 
-
-
 ____________
+git reset --mexed commit_id 
+ist default action on git reset 
+change file is preserve but not marked for commit and report what has not been update
+code in working evn
+_____________________________________________________________________________________
 	

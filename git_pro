@@ -1,0 +1,8 @@
+git reset used to undo the changes in our working directory and 
+get back to specific comment.
+___________________________________________
+git reset --soft commit_id 
+does not changes in file thise leves all changes in working file 
+change to be commite 
+stagging area
+
